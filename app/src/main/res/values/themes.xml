@@ -1,10 +1,10 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.CcprMobile" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
-        <item name="colorPrimary">@color/whit</item>
-        <item name="colorPrimaryVariant">@color/whit</item>
+    <style name="Theme.CCPRMobile" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primaryGreen</item>
+        <item name="colorPrimaryVariant">@color/primaryGreen</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/primaryGreen</item>
     </style>
 
     <style name="Theme.CcprMobile" parent="Base.Theme.CcprMobile" />

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
+    <color name="primaryGreenn">#004F54</color> <!-- Fundo verde escuro -->
     <color name="whit">#FFFF</color>
-
+    <color name="primaryGreen">#004F54</color> <!-- Fundo verde escuro -->
+    <color name="white">#FFFFFF</color> <!-- Texto branco -->
 </resources>
